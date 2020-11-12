@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="textureLoader:jar">
+    <output-path>$USER_HOME$/Desktop/MyPlugins</output-path>
+    <root id="archive" name="textureLoader.jar">
+      <element id="module-output" name="textureLoader" />
+    </root>
+  </artifact>
+</component>

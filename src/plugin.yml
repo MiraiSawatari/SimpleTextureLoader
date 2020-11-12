@@ -1,0 +1,9 @@
+name: TextureLoader
+main: tech.miraidev.TextureLoader
+version: 1.0
+author: Mirai
+description: Textureを読み込むプラグイン
+commands:
+  texture:
+    usage: /texture
+    description: "/textureでテクスチャを読み込み直します"
